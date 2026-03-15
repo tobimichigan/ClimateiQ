@@ -1,7 +1,7 @@
 # ClimateiQ
 
-<p><img src"https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG"></p>
 
+<p> <img width="1430" height="1193" alt="Fig  1 1  CURE-Bench Comprehensive Medical AI Evaluation Dashboard" src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG0" /></p>
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
 
 
