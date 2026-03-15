@@ -3,8 +3,8 @@
 
 <p> <img width="1200" height="720" alt="ClimateiQ Web and Mobile Application" src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG" /></p>
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
-<p>Web Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQ.html" target="__blank"> ClimateiQ Web Demo></p>
-<p>Mobile Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQMobile.html" target="__blank"> ClimateiQ Mobile Demo> </p>
+<p>Web Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQ.html" target="__blank"> ClimateiQ Web Demo>/a></p>
+<p>Mobile Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQMobile.html" target="__blank"> ClimateiQ Mobile Demo/a> </p>
 
 <p> <h1>ABSTRACT</h1></p>
 
