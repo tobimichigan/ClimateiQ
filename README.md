@@ -1,7 +1,7 @@
 # ClimateiQ
 
 
-<p> <img width="1200" height="720" alt="ClimateiQ Web and Mobile Application" src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG0" /></p>
+<p> <img width="1200" height="720" alt="ClimateiQ Web and Mobile Application" src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG" /></p>
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
 
 
