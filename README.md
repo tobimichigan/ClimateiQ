@@ -3,7 +3,8 @@
 
 <p> <img width="1200" height="720" alt="ClimateiQ Web and Mobile Application" src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG" /></p>
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
-
+Web Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQ.html" target="__blank"> ClimateiQ Web Demo/>
+Mobile Demo: <a href="https://handsonlabs.org/ClimateiQ/ClimateiQMobile.html" target="__blank"> ClimateiQ Mobile Demo/> 
 
 <p> <h1>ABSTRACT</h1></p>
 
@@ -16,7 +17,7 @@ Limitations are stated explicitly: the 25 km grid cannot resolve sub-urban micro
 
 <p><h1> Selected Model Graphical Plots</h1></p>
 
-<p><h1>plot_11_downscaling_demo.png — “Spatial Downscaling ×4: Regional TAS”</h1>h1>
+<p><h1>plot_11_downscaling_demo.png — “Spatial Downscaling ×4: Regional TAS”</h1>
 
 <p><img width="1200" height="720" alt="plot_11_downscaling_demo.png — “Spatial Downscaling ×4: Regional TAS" src="https://github.com/tobimichigan/ClimateiQ/blob/main/model_results/plot_11_downscaling_demo.png" /></p>
 
@@ -27,7 +28,7 @@ Coarse bilinear is noisy vertically (column/row artifacts) and lacks realistic l
 Hybrid output is smooth, captures latitudinal gradient and regional structure with smaller dynamic range (colorbar ±~3°C).
 Added-detail delta highlights local corrections (positive and negative) up to large magnitudes (the delta colorbar shows a wide range; check scaling)  this is the learned high-frequency detail the model applied on top of bilinear baseline.</p>
 
-<p><h1>plot_05_metrics_summary.png, “Model Performance across All Splits”</h1>h1>
+<p><h1>plot_05_metrics_summary.png, “Model Performance across All Splits”</h1>
 
 <p><img width="1200" height="720" alt="plot_05_metrics_summary.png — Model Performance — All Splits" src="https://github.com/tobimichigan/ClimateiQ/blob/main/model_results/plot_05_metrics_summary.png" /></p>
 
