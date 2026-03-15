@@ -11,7 +11,4 @@ Functionally, the mobile application supports rapid, offline-capable triage work
 Limitations are stated explicitly: the 25 km grid cannot resolve sub-urban microclimates; variable coverage excludes some hazard indices; and residual model biases (RMSE ≈ 0.847°C) must be reported. ClimateIQ is presented as a scientific, reproducible bridge from ensemble climate science to operational adaptation planning designed to make uncertainty usable rather than opaque. 
 </p>
 
-
-
-
 <p></p>
