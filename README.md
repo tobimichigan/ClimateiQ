@@ -1,5 +1,7 @@
 # ClimateiQ
 
+<p><img src"https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots/Slide1.PNG"></p>
+
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
 
 
