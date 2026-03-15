@@ -3,7 +3,7 @@
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
 
 
-<p> # ABSTRACT</p>
+<p> <h1>ABSTRACT</h1></p>
 
 <p>ClimateIQ is a decision-support system that translates regional climate model outputs into actionable, sector-focused guidance for practitioners and policymakers. The platform ingests NA-CORDEX forcing and ERA5 reanalysis data to produce statistically and dynamically downscaled climate projections at ~25 km resolution, implemented as both a field-oriented mobile application and a feature-rich web dashboard. NA-CORDEX ERA5 
 Technically, ClimateIQ combines a convolutional neural network for spatial pattern recognition with a long-short-term memory stage for temporal sequencing (CNN–LSTM), producing ensemble projections under five Shared Socioeconomic Pathway (SSP) scenarios for the period 2025–2100. The system emphasizes uncertainty transparency (ensemble spread and configurable confidence intervals), reproducibility (versioned inference weights and ERA5 traceability), and decision-relevance by exposing validation metrics (R², RMSE, cross-validation folds) alongside all operational outputs.
