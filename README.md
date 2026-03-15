@@ -1,4 +1,5 @@
 # ClimateiQ
+
 ClimateiQ is a an Enviroment Friendly  App for Policy Makers and Practitioners 
 
 
@@ -11,5 +12,6 @@ Limitations are stated explicitly: the 25 km grid cannot resolve sub-urban micro
 </p>
 
 <p># Graphical Plots</p>
+
 
 <p></p>
