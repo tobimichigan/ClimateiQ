@@ -51,7 +51,7 @@ Time series snippet: first 600 samples of Actual vs Pred (bottom-right).
 
 
 
-<p><h1>plot_05_metrics_summary.png, “Model Performance across All Splits”</h1>
+<p><h1>ClimateIQ:The Climate Downscaling AI Pipeline and  The GraphCast Fine-Tuned AI Model</h1>
 
 <p><img width="1200" height="720" alt="ClimateIQ:The Climate Downscaling AI Pipeline and  The GraphCast Fine-Tuned AI Model " src="https://github.com/tobimichigan/ClimateiQ/blob/main/graphical_plots2/Slide1.PNG" /></p>
 
